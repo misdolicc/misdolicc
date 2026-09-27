@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=misdolicc&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Something%20has%20awakened.&descAlignY=58&descSize=18" alt="header" />
+  <img src="./banner.jpg" alt="misdolicc · NGC 3372 Carina Nebula" width="100%" />
 </p>
 
 ---
