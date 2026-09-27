@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.svg" alt="misdolicc · NGC 3372 Carina Nebula" width="100%" />
+  <img src="./banner.jpg" alt="misdolicc · NGC 3372 Carina Nebula" width="100%" />
 </p>
 
 ---
