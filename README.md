@@ -35,7 +35,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misdolicc&theme=tokyonight" width="49.5%" />
   <img src="https://streak-stats.demolab.com?user=misdolicc&theme=tokyonight&hide_border=true&card_width=700&card_height=200" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" />
-</p>
