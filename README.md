@@ -14,18 +14,18 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailscale-242424?style=flat-square&logo=tailscale&logoColor=white" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
 ### 🚀 Featured projects
 
-| 项目 | 简介 | 技术 |
+| Project | Description | Tech |
 | --- | --- | --- |
-| [**archive-classifier**](https://github.com/misdolicc/archive-classifier) | Agent Skill：模型设计分类规则，Python 批量执行，把杂乱文件归入目标目录树并生成可审阅的移动计划 | Python · Agent Skill |
-| [**tailscaledashboard**](https://github.com/misdolicc/tailscaledashboard) | Tailscale 节点监控面板 + 桌面悬浮小组件：延迟趋势、密钥过期提醒、ACL 访问关系高亮、多语言 | C# · HTML |
-| [**SayToKey**](https://github.com/misdolicc/SayToKey) | 手机扫码即可把离线语音输入实时同步到电脑，本地运行、不依赖云端 | Rust |
-| [**DeepSkyNorth**](https://github.com/misdolicc/astrophotographywebsite) | 天文摄影作品站：Lightbox 浏览、缩放平移、Three.js 星空背景、五语言切换 | HTML · Three.js |
+| [**archive-classifier**](https://github.com/misdolicc/archive-classifier) | An Agent Skill where the model designs classification rules and Python applies them in bulk — sorts messy files into a target folder tree and produces a reviewable move plan | Python · Agent Skill |
+| [**tailscaledashboard**](https://github.com/misdolicc/tailscaledashboard) | Tailscale node monitoring dashboard + floating desktop widget: latency trends, key-expiry alerts, ACL reachability highlighting, multi-language | C# · HTML |
+| [**SayToKey**](https://github.com/misdolicc/SayToKey) | Scan a QR code and stream your phone's offline voice input to your PC in real time — fully local, no cloud | Rust |
+| [**DeepSkyNorth**](https://github.com/misdolicc/astrophotographywebsite) | Astrophotography gallery: lightbox viewer, zoom & pan, Three.js starfield background, five languages | HTML · Three.js |
 
 ### 📊 GitHub stats
 
