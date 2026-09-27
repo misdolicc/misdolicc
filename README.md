@@ -2,18 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=misdolicc&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Something%20has%20awakened.&descAlignY=58&descSize=18" alt="header" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=5FB3D4&center=true&vCenter=true&width=520&lines=AI+Agents+%26+LLM+Tooling;RAG+%C2%B7+Automation+%C2%B7+Local-first+tools;Astrophotography+under+northern+skies+%F0%9F%94%AD" alt="typing" />
-</p>
-
 ---
-
-### 🛰️ About me
-
-- 🤖 在做 **AI Agent / LLM 应用**：RAG、Agent Skills、自动化测试中的大模型诊断
-- 🛠️ 喜欢写**本地优先、小而好用**的工具：语音输入、网络监控、文件归类
-- 🔭 业余**天文摄影**爱好者，作品放在 DeepSkyNorth
-- 🌱 正在折腾：Rust · Agent 工作流 · 可视化
 
 ### 🧰 Tech stack
 
