@@ -31,15 +31,9 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misdolicc&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misdolicc&theme=tokyonight" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misdolicc&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=misdolicc&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misdolicc&theme=tokyonight" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misdolicc&theme=tokyonight" width="49.5%" />
+  <img src="https://streak-stats.demolab.com?user=misdolicc&theme=tokyonight&hide_border=true&card_width=700&card_height=200" width="100%" />
 </p>
 
 <p align="center">
