@@ -4,7 +4,7 @@
 
 ---
 
-### 🧰 Tech stack
+### Tech stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" />
 </p>
 
-### 🚀 Featured projects
+### Featured projects
 
 | Project | Description | Tech |
 | --- | --- | --- |
@@ -27,7 +27,7 @@
 | [**SayToKey**](https://github.com/misdolicc/SayToKey) | Scan a QR code and stream your phone's offline voice input to your PC in real time — fully local, no cloud | Rust |
 | [**DeepSkyNorth**](https://github.com/misdolicc/astrophotographywebsite) | Astrophotography gallery: lightbox viewer, zoom & pan, Three.js starfield background, five languages | HTML · Three.js |
 
-### 📊 GitHub stats
+### GitHub stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misdolicc&theme=tokyonight" width="100%" />
