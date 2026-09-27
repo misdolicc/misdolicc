@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./banner.jpg" alt="misdolicc · NGC 3372 Carina Nebula" width="100%" />
+  <img src="./banner.svg" alt="misdolicc · NGC 3372 Carina Nebula" width="100%" />
 </p>
 
 ---
@@ -34,4 +34,11 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misdolicc&theme=tokyonight" width="49.5%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misdolicc&theme=tokyonight" width="49.5%" />
   <img src="https://streak-stats.demolab.com?user=misdolicc&theme=tokyonight&hide_border=true&card_width=700&card_height=200" width="100%" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misdolicc/misdolicc/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/misdolicc/misdolicc/output/snake-light.svg" alt="contribution snake" width="100%" />
+  </picture>
 </p>
