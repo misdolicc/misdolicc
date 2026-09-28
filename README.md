@@ -2,10 +2,6 @@
   <img src="./banner.jpg" alt="misdolicc · NGC 3372 Carina Nebula" width="100%" />
 </p>
 
----
-
-### Tech stack
-
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
