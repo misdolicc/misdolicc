@@ -18,43 +18,18 @@
 
 ### Featured projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/misdolicc/archive-classifier"><img src="./cards/archive-classifier.jpg" alt="archive-classifier" width="100%" /></a>
-      <h4><a href="https://github.com/misdolicc/archive-classifier">archive-classifier</a></h4>
-      <sub>An Agent Skill: the model designs classification rules, Python applies them in bulk — messy files into a target folder tree, with a reviewable move plan.</sub><br />
-      <sub><b>Python · Agent Skill</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/misdolicc/tailscaledashboard"><img src="./cards/tailscaledashboard.jpg" alt="Tailscale Dashboard" width="100%" /></a>
-      <h4><a href="https://github.com/misdolicc/tailscaledashboard">Tailscale Dashboard</a></h4>
-      <sub>Node monitoring dashboard + floating desktop widget: latency trends, key-expiry alerts, ACL reachability highlighting.</sub><br />
-      <sub><b>C# · HTML</b></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/misdolicc/SayToKey"><img src="./cards/saytokey.jpg" alt="SayToKey" width="100%" /></a>
-      <h4><a href="https://github.com/misdolicc/SayToKey">SayToKey</a></h4>
-      <sub>Scan a QR code and stream your phone's offline voice input to your PC in real time — fully local, no cloud.</sub><br />
-      <sub><b>Rust</b></sub>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/misdolicc/astrophotographywebsite"><img src="./cards/deepskynorth.jpg" alt="DeepSkyNorth" width="100%" /></a>
-      <h4><a href="https://github.com/misdolicc/astrophotographywebsite">DeepSkyNorth</a></h4>
-      <sub>Astrophotography gallery: lightbox viewer, zoom &amp; pan, Three.js starfield background, five languages.</sub><br />
-      <sub><b>HTML · Three.js</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/misdolicc/archive-classifier"><img src="./cards/archive-classifier.jpg" alt="archive-classifier" width="100%" /></a>
+  <a href="https://github.com/misdolicc/tailscaledashboard"><img src="./cards/tailscaledashboard.jpg" alt="tailscaledashboard" width="100%" /></a>
+  <a href="https://github.com/misdolicc/SayToKey"><img src="./cards/saytokey.jpg" alt="SayToKey" width="100%" /></a>
+  <a href="https://github.com/misdolicc/astrophotographywebsite"><img src="./cards/deepskynorth.jpg" alt="astrophotographywebsite" width="100%" /></a>
+</p>
 
 ### GitHub stats
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misdolicc&theme=tokyonight" width="100%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misdolicc&theme=tokyonight" width="49.5%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misdolicc&theme=tokyonight" width="49.5%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misdolicc&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misdolicc&theme=tokyonight" width="49%" />
   <img src="https://streak-stats.demolab.com?user=misdolicc&theme=tokyonight&hide_border=true&card_width=700&card_height=200" width="100%" />
 </p>
 
