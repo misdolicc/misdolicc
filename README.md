@@ -19,8 +19,8 @@
 ### Featured projects
 
 <p align="center">
-  <a href="https://github.com/misdolicc/archive-classifier"><img src="./cards/grid-archive-classifier.jpg" alt="archive-classifier" width="49%" /></a> <a href="https://github.com/misdolicc/tailscaledashboard"><img src="./cards/grid-tailscaledashboard.jpg" alt="tailscaledashboard" width="49%" /></a>
-  <a href="https://github.com/misdolicc/SayToKey"><img src="./cards/grid-saytokey.jpg" alt="SayToKey" width="49%" /></a> <a href="https://github.com/misdolicc/astrophotographywebsite"><img src="./cards/grid-deepskynorth.jpg" alt="astrophotographywebsite" width="49%" /></a>
+  <a href="https://github.com/misdolicc/archive-classifier"><img src="./cards/grid2-archive-classifier.jpg" alt="archive-classifier" width="49%" /></a> <a href="https://github.com/misdolicc/tailscaledashboard"><img src="./cards/grid2-tailscaledashboard.jpg" alt="tailscaledashboard" width="49%" /></a>
+  <a href="https://github.com/misdolicc/SayToKey"><img src="./cards/grid2-saytokey.jpg" alt="SayToKey" width="49%" /></a> <a href="https://github.com/misdolicc/astrophotographywebsite"><img src="./cards/grid2-deepskynorth.jpg" alt="astrophotographywebsite" width="49%" /></a>
 </p>
 
 ### GitHub stats
