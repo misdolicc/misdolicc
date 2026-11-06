@@ -13,8 +13,6 @@
 </p>
 
 
-### GitHub stats
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=misdolicc&theme=tokyonight" width="100%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=misdolicc&theme=tokyonight" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=misdolicc&theme=tokyonight" width="49%" />
